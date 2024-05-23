@@ -1,0 +1,6 @@
+print("two examples of syntax errors are ' prin('aja') and print(aaa')")
+print("two examples of indentation errors are for and if, if there isnt any indentation on the next line u get an error")
+print("two examples of type errors are: ' bank_account = 'nintey'*'nintey' and hot_days = '40 degrees' < 77")
+print("two examples of name errors are: 'print('i eat', food)\n food = 'spagetti' and print('forty-', number) \n number = 'eight'")
+print("two examples of logic errors are if you miss a important line or put code in the wrong order")
+print("the type of errors are: 1-name error, 2-syntax error, 3-syntax error, 4-syntax error and name error, 5-type error, 6-type error, 7-name error.")
